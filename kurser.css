@@ -1,0 +1,62 @@
+body
+{
+    background-image: url(grahimmelja.jpeg);
+    background-size: cover;
+}
+.homeicon
+{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+.header
+{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    font-size: 45px;
+}
+.kurser
+{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
+
+.school
+{
+    position: absolute;
+    height: 180px;
+    width: 320px;
+    left: 100px;
+    top: 120px;
+}
+.matte
+{
+    position: absolute;
+    height: 180px;
+    width: 320px;
+    left: 100px;
+    top: 330px;
+}
+.program
+{
+    position: absolute;
+    height: 180px;
+    width: 320px;
+    right: 100px;
+    top: 120px;
+}
+.idrott
+{
+    position: absolute;
+    height: 180px;
+    width: 320px;
+    right: 100px;
+    top: 330px;
+}

@@ -1,0 +1,34 @@
+body
+{
+    background-image: url(blahimmeljaa.jpeg);
+    background-size: cover;
+}
+.homeicon
+{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+.ommig
+{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+.info
+{
+    color: white;
+    font-size: 30px;
+    margin-left: 35px;
+}
+.cool
+{
+    height: 300px;
+    width: 275px;
+    position: absolute;
+    left: 885px;
+    top: 160px;
+}

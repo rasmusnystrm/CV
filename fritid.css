@@ -1,0 +1,53 @@
+body
+{
+    background-image: url(mountainss.jpeg);
+    background-size: cover;
+    display:flex; 
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+    top: 50px;
+}
+.homeicon
+{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+.titel
+{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+.bilder
+{
+    justify-content: space-between;
+}
+.gym
+{
+    position: absolute;
+    height: 250px;
+    width: 330px;
+    left: 50px;
+    top: 135px;
+}
+.cs
+{
+    position: absolute;
+    height: 250px;
+    width: 430px;
+    left: 415px;
+    top: 135px;
+}
+.padel
+{
+    position: absolute;
+    height: 250px;
+    width: 330px;
+    right: 50px;
+    top: 135px;
+}

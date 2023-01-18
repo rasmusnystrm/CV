@@ -1,0 +1,56 @@
+body
+{
+    background-image: url(mountainss.jpeg);
+    background-size: cover;
+    display:flex; 
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+    top: 50px;
+}
+.content
+{
+    max-width: 500px;
+    padding: 10px;
+    display: flex;
+    position: relative;
+    right: 120px;
+}
+
+.titel
+{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    height: 100px;
+}
+
+.name
+{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    left: 100px;
+}
+img
+{
+    height: 200px;
+    width: 190px;
+    border-radius: 50%;
+    display: flex;
+
+}
+.homeicon
+{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+.kontaktinfo
+{
+    color: black;
+    font-size: 20px;
+    background-color: lightgray;
+    text-align: center;
+}
